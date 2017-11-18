@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\macroDefinition.dir/objects.a
+D:\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\macroDefinition.dir/objects.a @CMakeFiles\macroDefinition.dir\objects1.rsp
+D:\CodeBlocks\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\macroDefinition.dir/objects.a -Wl,--no-whole-archive  -o macroDefinition.exe -Wl,--out-implib,libmacroDefinition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\macroDefinition.dir\linklibs.rsp

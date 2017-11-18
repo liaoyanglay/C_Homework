@@ -1,0 +1,3 @@
+D:/PROJECT/C_Homework/Homework5/macroDefinition/cmake-build-debug/CMakeFiles/macroDefinition.dir
+D:/PROJECT/C_Homework/Homework5/macroDefinition/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROJECT/C_Homework/Homework5/macroDefinition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
