@@ -1,0 +1,3 @@
+D:/PROJECT/C_Homework/Homework7/95/cmake-build-debug/CMakeFiles/95.dir
+D:/PROJECT/C_Homework/Homework7/95/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROJECT/C_Homework/Homework7/95/cmake-build-debug/CMakeFiles/rebuild_cache.dir
