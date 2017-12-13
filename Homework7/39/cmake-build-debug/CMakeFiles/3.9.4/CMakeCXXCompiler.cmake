@@ -14,8 +14,11 @@ set(CMAKE_CXX_PLATFORM_ID "MinGW")
 set(CMAKE_CXX_SIMULATE_ID "")
 set(CMAKE_CXX_SIMULATE_VERSION "")
 
+
 set(CMAKE_AR "D:/CodeBlocks/MinGW/bin/ar.exe")
+set(CMAKE_CXX_COMPILER_AR "D:/CodeBlocks/MinGW/bin/gcc-ar.exe")
 set(CMAKE_RANLIB "D:/CodeBlocks/MinGW/bin/ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "D:/CodeBlocks/MinGW/bin/gcc-ranlib.exe")
 set(CMAKE_LINKER "D:/CodeBlocks/MinGW/bin/ld.exe")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
 set(CMAKE_CXX_COMPILER_LOADED 1)
@@ -65,6 +68,6 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;mingw32;moldname;mingwex;msvcrt;pthread;advapi32;shell32;user32;kernel32;mingw32;moldname;mingwex;msvcrt")
+set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;mingw32;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex")
 set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "D:/CodeBlocks/MinGW/lib/gcc/mingw32/4.9.2;D:/CodeBlocks/MinGW/lib/gcc;D:/CodeBlocks/MinGW/mingw32/lib;D:/CodeBlocks/MinGW/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
